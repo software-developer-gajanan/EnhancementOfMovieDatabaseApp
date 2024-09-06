@@ -124,5 +124,5 @@ https://api.themoviedb.org/3/search/movie?api_key=${API_KEY}&language=en-US&quer
 </a>
 
 <br/>
-<center>**Follow the clean code guidelines**</center>
+
 
