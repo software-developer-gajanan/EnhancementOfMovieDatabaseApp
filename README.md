@@ -108,11 +108,6 @@ https://api.themoviedb.org/3/movie/${MOVIE_ID}/credits?api_key=${API_KEY}&langua
 https://api.themoviedb.org/3/search/movie?api_key=${API_KEY}&language=en-US&query=${MOVIE_NAME}&page=1
 ```
 
-<br/>
-**Note:** Make sure to replace `${API_KEY}`, `${MOVIE_ID}` and `${MOVIE_NAME}` with actual values when using these APIs.
-
-<br/>
-#### Submission Form:
 
 
 
