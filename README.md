@@ -1,5 +1,4 @@
 
-
 - Popular Movies Page (Home Page)
 - Top Rated Movies Page
 - Upcoming Movies Page
