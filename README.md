@@ -1,4 +1,4 @@
-Develop an application based on video-on-demand websites that provides an extensive database of available content. It should consist of various pages and a global navbar.
+Develop an application based on video-on-demand websites that provides an extensive databa
 
 - Popular Movies Page (Home Page)
 - Top Rated Movies Page
