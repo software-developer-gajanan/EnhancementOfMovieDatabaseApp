@@ -54,15 +54,6 @@ Develop an application based on video-on-demand websites that provides an extens
 - Initially, users should be able to see the Popular Page (Home Page) upon accessing the website.
 - Each page corresponds to a different route.
 
-### Instructions:
-
-- Upload the project on Codesandbox (https://codesandbox.io/) and submit it using the code sandbox link. This is mandatory, without this, the submission will not be accepted.
-- The project must be responsive with decent CSS.
-- It is not necessary that the colors should match the images above. Use your imagination and try to make it as you like.
-- Pagination is required.
-- If you are a candidate with more than 6 months of experience then using Redux for state management purposes is a MUST.
-- If you are a fresher then can directly do API calls in the components themselves.
-- Make sure the components are reusable wherever possible.
 
 ### API Details:
 
